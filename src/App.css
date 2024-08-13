@@ -85,7 +85,7 @@ header {
     text-align: center;
     background-size: cover;
     position: fixed;
-    margin-left: -5.92%;
+    left:0;
     top: 0;
     overflow: hidden;
     transition: all .5s ease;
@@ -150,7 +150,7 @@ header {
     }
 
 header > p {
-    margin-top: 4%;
+    margin-top: 2%;
 }
 
     header > p > a {
